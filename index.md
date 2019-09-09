@@ -1,3 +1,4 @@
+# EkaterinaM.GitHub.io
 ## Welcome to Kate's page
 
 You can use the [editor on GitHub](https://github.com/KateM19/EkaterinaM.GitHub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -7,6 +8,8 @@ techniques, as well as effective communication skills with both business and tec
 
 
 
+![GitHub Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPtMl1LDahbxR9lwwg0rD13zlGfXQYoGawYfaYv2P4AXRobvZNlg)
+Format: ![Alt Text](https://upload.wikimedia.org/wikipedia/en/thumb/6/60/San_Diego_State_University_seal.svg/1200px-San_Diego_State_University_seal.svg.png)
 
 **Education** 
 
@@ -16,15 +19,4 @@ Master of Science, Information Systems, Candidate
 
 Moscow Technological University, Cybernetics department                                                     
 Master of Science, Applied Mathematics and Informatics,     GPA: 3.9                              
-Bachelor of Science, Applied Mathematics and Informatics,  GPA: 3.5                               
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KateM19/EkaterinaM.GitHub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Bachelor of Science, Applied Mathematics and Informatics,  GPA: 3.5  
