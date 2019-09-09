@@ -9,7 +9,7 @@ techniques, as well as effective communication skills with both business and tec
 
 
 ![GitHub Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPtMl1LDahbxR9lwwg0rD13zlGfXQYoGawYfaYv2P4AXRobvZNlg)
-Format: ![Alt Text](https://upload.wikimedia.org/wikipedia/en/thumb/6/60/San_Diego_State_University_seal.svg/1200px-San_Diego_State_University_seal.svg.png)
+![Alt Text](https://upload.wikimedia.org/wikipedia/en/thumb/6/60/San_Diego_State_University_seal.svg/1200px-San_Diego_State_University_seal.svg.png)
 
 **Education** 
 
