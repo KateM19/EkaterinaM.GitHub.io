@@ -1,30 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Kate's page
 
 You can use the [editor on GitHub](https://github.com/KateM19/EkaterinaM.GitHub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+MSIS candidate 2020 with excellent ability to produce insights using statistical procedures, data science 
+techniques, as well as effective communication skills with both business and technical teams. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**Education** 
 
-- Bulleted
-- List
+San Diego State University, Fowler College of Business                  
+Master of Science, Information Systems, Candidate  
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Moscow Technological University, Cybernetics department                                                     
+Master of Science, Applied Mathematics and Informatics,     GPA: 3.9                              
+Bachelor of Science, Applied Mathematics and Informatics,  GPA: 3.5                               
 
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
